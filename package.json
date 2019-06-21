@@ -1,0 +1,27 @@
+{
+  "name": "bowling-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiecollinson/bowling-kata.git"
+  },
+  "keywords": [
+    "javascript",
+    "kata",
+    "bowling"
+  ],
+  "author": "Jamie Collinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamiecollinson/bowling-kata/issues"
+  },
+  "homepage": "https://github.com/jamiecollinson/bowling-kata#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
